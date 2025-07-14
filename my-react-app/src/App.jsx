@@ -3,9 +3,6 @@ function App() {
 
   return(<>
          <ComponentA/>
-         <ComponentA/>
-         <ComponentA/>
-         <ComponentA/>
   </>);
   
   }
